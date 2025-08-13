@@ -1,4 +1,4 @@
-# BOOTCAMP DIO
+# BootcampDio 
 ![alt text](/image/image.png)
 
 ## Informações importantes para esse novo estudo
