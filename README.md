@@ -1,8 +1,8 @@
-# BootcampDio 
+# BOOTCAMP DIO
 ![alt text](/image/image.png)
 
 ## Informações importantes para esse novo estudo
-Python é uma linguagem de tipagem dinâmica e forte, multiparadgima e multiplataforma.
+Python é uma linguagem de tipagem dinâmica, forte, multiparadgima e multiplataforma.
 
 Comando para verificar versão do do Python: python -V
 
